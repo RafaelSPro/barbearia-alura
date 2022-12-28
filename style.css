@@ -92,7 +92,9 @@ footer {
 
 /* Estilo Contato */
 
-
+.pagina-contatos {
+    padding-left: 50px;
+}
 
 .copy {
     font-size: 13px ;
