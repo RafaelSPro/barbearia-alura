@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 300px) and (max-width:768px){
+
+   /* Página Homer*/
+
+    .titulo-principal, .conteudo-beneficios, .beneficios, .principal, .video, .caixa {
+        width: 100%;
+        margin: auto;
+    }
+
+    .mapa-conteudo {
+        width: 100%;
+    }
+
+    .utensilios {
+        width: 420px;
+        margin: auto;
+        height: 250px;
+        
+    }
+
+    .lista-beneficios{
+        display: block;
+        
+    }
+    .mapa-conteudo {
+        width: 400px
+    }
+
+    nav {
+        position: static;
+        
+    }
+    
+    /* Página produtos*/
+
+    .produtos {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+    
+
+    
+}
