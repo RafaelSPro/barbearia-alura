@@ -4,9 +4,20 @@
 
    /* Página Homer*/
 
-    .titulo-principal, .conteudo-beneficios, .beneficios, .principal, .video, .caixa {
+    .titulo-principal, .conteudo-beneficios, .beneficios, .principal, .video, .caixa, .mapa {
         width: 100%;
         margin: auto;
+        
+    }
+
+    .titulo-principal {
+        padding: 20px 0;
+    }
+
+    .principal p {
+        padding: 5px;
+        line-height: 20px;
+
     }
 
     .img {
@@ -17,12 +28,24 @@
         width: 100%;
     }
 
+
+    .imagem-beneficios {
+        width: 40%;
+    }
+
+    .lista-beneficios {
+        padding: 10px 10px;
+    }
+
     .utensilios {
         width: 420px;
         margin: auto;
         height: 250px;
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-bottom: 10px;
         
-    }
+}
 
     .mapa-conteudo {
         width: 400px
