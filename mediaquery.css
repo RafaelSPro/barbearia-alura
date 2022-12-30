@@ -87,9 +87,8 @@
 
     .descricao {
         font-size: 13px;
-        line-height: 30px;
-        width: 100%;
-        text-align: center;
+        line-height: 20px;
+        text-align: justify;
         text-indent: 10px;
     }
 
