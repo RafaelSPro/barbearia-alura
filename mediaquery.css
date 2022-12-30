@@ -76,12 +76,17 @@
         margin-top: 20px;
     }
 
+    .produtos h2 {
+        font-size: 27px;
+        text-align: center;
+    }
+
     .barba-cabelo {
         width: 100%;
     }
 
     .descricao {
-        font-size: 15px;
+        font-size: 13px;
         line-height: 30px;
         width: 100%;
         text-align: center;
