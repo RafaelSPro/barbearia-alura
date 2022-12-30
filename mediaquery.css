@@ -67,18 +67,14 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 100%;
+        width: 400px
        
         
     }
 
     .produtos li {
         margin-top: 20px;
-    }
-
-    .produtos h2 {
-        font-size: 27px;
-        text-align: center;
+        width: 60%;
     }
 
     .barba-cabelo {
@@ -86,9 +82,8 @@
     }
 
     .descricao {
-        font-size: 13px;
         line-height: 20px;
-        text-align: justify;
+        text-align: center;
         text-indent: 10px;
     }
 
