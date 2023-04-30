@@ -9,5 +9,7 @@
 <h3> Página Homer para Desktop: </h3>
 <img src="https://github.com/RafaelSPro/barbearia-alura/blob/main/imagens/principal.JPG?raw=true"/>
 <h3> Página produtos para Desktop: </h3>
-<img src="
+<img src="https://github.com/RafaelSPro/barbearia-alura/blob/main/imagens/produtos.JPG?raw=true"/>
+<h3>Versão Mobile: </h3>
+<img src="https://github.com/RafaelSPro/barbearia-alura/blob/main/imagens/mobile.JPG?raw=true"/>
 
